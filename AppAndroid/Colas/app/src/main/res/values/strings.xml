@@ -1,0 +1,31 @@
+<resources>
+
+    <string name="app_name">infoColas</string>
+
+    <string name="title_maps">Como llegar</string>
+
+    <!-- Debug -->
+    <string name="google_maps_key" translatable="false" templateMergeStrategy="preserve">AIzaSyDCMmNol15DJc0-el1FaaVEzqLXgl8jbhk</string>
+    <!-- Export -->
+    <!-- <string name="google_maps_key" translatable="false" templateMergeStrategy="preserve"> AIzaSyDkaLClP-2og7T5gqbfEDhlL2zLaUC-STk</string> -->
+
+    <string name="str_categoria">Lugares</string>
+    <string name="str_lugar">Lugar</string>
+    <string name="str_sesion">Inicio de Sesión</string>
+    <string name="str_agregar">+</string>
+    <string name="str_ingresar_lugar">Ingresar</string>
+    <string name="str_registrar_lugar">Registrate</string>
+    <string name="strIngresar">Ingresar</string>
+    <string name="strGuardar">Guardar</string>
+    <string name="str_similares">Similares</string>
+    <string name="str_sugerir_lugar">Sugerir lugar</string>
+
+    <string-array name="categorias">
+        <item>ONPE</item>
+        <item>Restaurante</item>
+        <item>Banco</item>
+        <item>Cine</item>
+        <item>Universidad</item>
+    </string-array>
+
+</resources>
