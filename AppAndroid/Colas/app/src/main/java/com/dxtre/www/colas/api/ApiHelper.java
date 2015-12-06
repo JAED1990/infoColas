@@ -29,7 +29,7 @@ import java.util.List;
 public class ApiHelper {
 
 	// give your server registration url here
-	public static final String SERVER_URL = "http://dxtre.com/colas/controlador/";
+	public static final String SERVER_URL = "http://localhost/colas/controlador/";
 
 	public static final long PERIOD = 900000;//60000;//900000; //1800000;
 	public static int distance = 650;//650;
